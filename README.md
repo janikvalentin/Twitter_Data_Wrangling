@@ -15,5 +15,5 @@ In this project, I gathered tweet data in a variety of different sources from th
 
 - data_wrangling.ipynb: jupyter notebook documenting the gathering, cleaning and exploratory analyses steps
 - act_report.html: html file presenting the results in a clean format
-- wrangling_report.ipynb: document assessing the wrangling efforts
+- wrangle_report.pdf: document assessing the wrangling efforts
 - csv, tsv and txt files containing the datasets
